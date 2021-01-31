@@ -1,2 +1,5 @@
-# AlgoVis
-An Algorithmic Visualizer
+# ALVIS
+## An algorithm visualiser
+<hr>
+
+Open page algovis.html
