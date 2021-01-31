@@ -2,4 +2,4 @@
 ## An algorithm visualiser
 <hr>
 
-Open page algovis.html
+Open page index.html
